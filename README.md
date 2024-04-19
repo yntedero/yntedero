@@ -57,6 +57,5 @@
 - Lead a healthy lifestyle and like to stay active with sports
 
 # 📞 Contact:
-- Phone: +421917961511
 - Email: yntedero@gmail.com
-- Location: Banska Bystrica, Severná 24
+- Location: Banska Bystrica
