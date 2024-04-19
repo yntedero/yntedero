@@ -1,18 +1,60 @@
-👋 Hi, I’m @yntedero
+# 💫 About Me:
+🔭 I am a Junior Software Engineer with expertise in Angular, Spring Boot, React, JavaScript, Python, Docker, Java, C#, testing, databases, problem-solving, and communication.
 
-👀 I’m interested in: Exploring new technologies, solving complex problems, and collaborating on innovative projects.
+## 🌐 Socials:
+- LinkedIn
+- GitHub
 
-🌱 I’m currently learning: Advanced techniques in web development and cloud computing to enhance my skill set.
+# 💻 Tech Stack:
 
-💞️ I’m looking to collaborate on: Exciting software projects that challenge me and allow me to contribute meaningfully to a team.
+## Languages
+- Angular
+- Spring Boot
+- React
+- JavaScript
+- Python
+- Java
+- C#
+  
+## Tools
+- Docker
 
-📫 How to reach me: Feel free to contact me via email at yntedero@gmail.com or connect with me on LinkedIn.
+## Testing
+- Software testing
 
-😄 Pronouns: He/him
+## Databases
+- Administration of software systems and cloud services
+- Data management
 
-⚡ Fun fact: I'm an avid traveler who enjoys immersing myself in different cultures and cuisines around the world!
+# 🏢 Experience:
+**UAKOM**  
+*Junior Software Engineer*  
+*2023 - Present*  
+- Web and software engineering
+- Administration of operating Windows and Linux systems
+- Development of scripts and applications
+- System administration
 
-<!---
-yntedero/yntedero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🎓 Courses and Certificates:
+- Agile Awareness, Mendix - February 2023 - March 2023
+- Build Your App Using a Template, Mendix - February 2023 - February 2024
+- The Full Stack Web Development 2023 - MERN STACK, Udemy
+
+# 📚 Education:
+**Matej Bel University in Banská Bystrica**  
+*Bachelor's Degree in Applied Computer Science*  
+*2022 - Present*  
+
+**Matej Bel University in Banská Bystrica**  
+*Bachelor Program in Slovak Language and Linguocultural Competence of Foreign Students*  
+*2021 - 2022*
+
+# 🎉 Hobbies & Interests:
+- Enjoy relaxing outdoors and care about protecting the environment
+- Love to travel to different countries and meet new people
+- Lead a healthy lifestyle and like to stay active with sports
+
+# 📞 Contact:
+- Phone: +421917961511
+- Email: yntedero@gmail.com
+- Location: Banska Bystrica, Severná 24
