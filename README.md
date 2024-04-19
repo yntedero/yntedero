@@ -2,8 +2,10 @@
 🔭 I am a Junior Software Engineer with expertise in Angular, Spring Boot, React, JavaScript, Python, Docker, Java, C#, testing, databases, problem-solving, and communication.
 
 ## 🌐 Socials:
-- LinkedIn
-- GitHub
+- [Instagram](https://www.instagram.com/ynte_dero/)
+- [LinkedIn](https://www.linkedin.com/in/yntedero/)
+- [GitHub](https://github.com/yntedero)
+- [Telegram](https://t.me/ynte_dero)
 
 # 💻 Tech Stack:
 
