@@ -37,7 +37,7 @@
 - System administration
 
 ## ⏰ WakaTime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yntedero&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yntedero&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🎓 Courses and Certificates:
 - Agile Awareness, Mendix - February 2023 - March 2023
