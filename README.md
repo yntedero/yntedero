@@ -39,11 +39,6 @@
 ## ⏰ WakaTime
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yntedero&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🐙 GitHub:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yntedero&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=higherror&theme=catppuccin-mocha)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yntedero&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
 # 🎓 Courses and Certificates:
 - Agile Awareness, Mendix - February 2023 - March 2023
 - Build Your App Using a Template, Mendix - February 2023 - February 2024
