@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Junior Software Engineer with expertise in Angular, Spring Boot, React, JavaScript, Python, Docker, Java, C#, testing, databases, problem-solving, and communication.
+🔭 I am a Junior Fronted Developer with expertise in Angular, TypeScript, JavaScript, SCSS/SASS, Spring Boot, Java, Python, Docker, testing, databases, problem-solving, and communication.
 
 ## 🌐 Socials:
 - [Instagram](https://www.instagram.com/ynte_dero/)
@@ -11,12 +11,12 @@
 
 ## Languages
 - Angular
-- Spring Boot
-- React
+- TypeScript
 - JavaScript
-- Python
+- SCSS/SASS
+- Spring Boot
 - Java
-- C#
+- Python
   
 ## Tools
 - Docker
@@ -32,10 +32,17 @@
 **UAKOM**  
 *Junior Software Engineer*  
 *2023 - Present*  
-- Web and software engineering
-- Administration of operating Windows and Linux systems
+- Web Development
 - Development of scripts and applications
 - System administration
+
+## ⏰ WakaTime
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yntedero&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🐙 GitHub:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yntedero&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=higherror&theme=catppuccin-mocha)](https://git.io/streak-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yntedero&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 # 🎓 Courses and Certificates:
 - Agile Awareness, Mendix - February 2023 - March 2023
