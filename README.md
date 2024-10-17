@@ -1,5 +1,5 @@
 # ✨ About Me:
-**I am a Junior Fronted Developer in Angular**</br>
+**I am a Junior Frontend Developer in Angular**</br>
 Developing with Angular + SCSS + TypeScript</br>
 
 ## 💻 Tech Stack:
