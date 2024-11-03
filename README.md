@@ -1,5 +1,5 @@
 # ✨ About Me:
-**I am a Junior Frontend Developer in Angular**</br>
+**I am a Junior Frontend Developer**</br>
 Developing with Angular + SCSS + TypeScript</br>
 
 ## 💻 Tech Stack:
@@ -12,8 +12,9 @@ Developing with Angular + SCSS + TypeScript</br>
 
 ### Frameworks
 [![Angular](https://img.shields.io/badge/Angular-%23F0513C.svg?style=flat&logo=angular&logoColor=white&color=1D1F22)](https://angular.io/)
-[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white&color=1D1F22)](https://react.dev/)
 [![Astro](https://img.shields.io/badge/Astro-%232B7C9A.svg?style=flat&logo=astro&logoColor=white&color=1D1F22)](https://astro.build/)
+[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white&color=1D1F22)](https://react.dev/)
+[![Vue](https://img.shields.io/badge/Vue-%2335495e.svg?style=flat&logo=vue.js&logoColor=white&color=1D1F22)](https://vuejs.org/)
 
 ### UI
 [![SCSS/SASS](https://img.shields.io/badge/SCSS%2fSASS-%23D20039.svg?style=flat&logo=sass&logoColor=white&color=1D1F22)](https://sass-lang.com/)
@@ -21,8 +22,9 @@ Developing with Angular + SCSS + TypeScript</br>
 [![PrimeNG](https://img.shields.io/badge/PrimeNG-%23007BFF.svg?style=flat&logo=primeng&logoColor=white&color=1D1F22)](https://www.primefaces.org/primeng/)
 
 ### Backend
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white&color=1D1F22)](https://expressjs.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white&color=1D1F22)](https://spring.io/projects/spring-boot)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white&color=1D1F22)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white&color=1D1F22)](https://expressjs.com/)
 
 ### Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white&color=1D1F22)](https://www.mongodb.com/)
@@ -32,7 +34,7 @@ Developing with Angular + SCSS + TypeScript</br>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yntedero&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏢 Experience:
-**CORETEQ Technology | Junior Frontend Developer | 2024 - Present**
+**CORETEQ Technology | Junior Frontend Developer | 2024 - 2024**
 - **Frontend Development**: Building responsive applications with Angular.
 - **UI/UX Design**: Collaborating on user interface designs.
 - **E2E Testing**: Implementing end-to-end testing.
