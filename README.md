@@ -1,6 +1,6 @@
 # ✨ About Me:
-**I am a Junior Frontend Developer**</br>
-Developing with Angular + SCSS + TypeScript</br>
+**I am a Frontend Developer**</br>
+Developing with Vue & Nuxt + SCSS + TypeScript</br>
 
 ## 💻 Tech Stack:
 
@@ -34,6 +34,12 @@ Developing with Angular + SCSS + TypeScript</br>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yntedero&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏢 Experience:
+**Softigo s.r.o. | Fullstack Developer | 2024 - Now**
+- **Frontend Development**: Building responsive applications with Vue.js & Blazor.
+- **Backend Development**: Building server‑side APIs, integrating databases with .NET.
+- **CI/CD Deveops**: Automated build and deployment pipelines.
+- **UI/UX Design**: Prototyping and making user interfaces.
+
 **CORETEQ Technology | Junior Frontend Developer | 2024 - 2024**
 - **Frontend Development**: Building responsive applications with Angular.
 - **UI/UX Design**: Collaborating on user interface designs.
