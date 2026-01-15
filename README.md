@@ -30,7 +30,8 @@ Developing with Vue & Nuxt + SCSS + TypeScript</br>
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white&color=1D1F22)](https://www.postgresql.org/)
 
 ## ⏰ WakaTime:
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🏢 Experience:
 **Softigo s.r.o. | Fullstack Developer | 2024 - Now**
