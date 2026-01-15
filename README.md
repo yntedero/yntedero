@@ -13,7 +13,6 @@ Developing with Vue & Nuxt + SCSS + TypeScript</br>
 ### Frameworks
 [![Angular](https://img.shields.io/badge/Angular-%23F0513C.svg?style=flat&logo=angular&logoColor=white&color=1D1F22)](https://angular.io/)
 [![Astro](https://img.shields.io/badge/Astro-%232B7C9A.svg?style=flat&logo=astro&logoColor=white&color=1D1F22)](https://astro.build/)
-[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white&color=1D1F22)](https://react.dev/)
 [![Vue](https://img.shields.io/badge/Vue-%2335495e.svg?style=flat&logo=vue.js&logoColor=white&color=1D1F22)](https://vuejs.org/)
 
 ### UI
