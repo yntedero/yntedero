@@ -32,20 +32,12 @@ Developing with Vue & Nuxt + SCSS + TypeScript</br>
 ## ⏰ WakaTime:
 <!--START_SECTION:waka-->
 
-```rust
-From: 19 April 2024 - To: 14 January 2026
-
-Total Time: 999 hrs 49 mins
-
-TypeScript                 283 hrs 50 mins >>>>>>>------------------   28.26 %
-C#                         124 hrs         >>>----------------------   12.35 %
-HTML                       122 hrs 53 mins >>>----------------------   12.24 %
-Vue.js                     122 hrs 24 mins >>>----------------------   12.19 %
-Razor                      74 hrs 47 mins  >>-----------------------   07.45 %
-CSS                        42 hrs 28 mins  >------------------------   04.23 %
-Blazor                     42 hrs 6 mins   >------------------------   04.19 %
-Java                       24 hrs 35 mins  >------------------------   02.45 %
-SCSS                       19 hrs 41 mins  -------------------------   01.96 %
+```txt
+TypeScript                 3 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
+YAML                       2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Other                      1 hr 58 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+JSON                       1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Vue.js                     1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
 ```
 
 <!--END_SECTION:waka-->
