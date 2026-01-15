@@ -41,7 +41,7 @@ Developing with: Vue / Nuxt - Angular - .NET - TypeScript</br>
 [![Traefik](https://img.shields.io/badge/Traefik-%2324A1C1.svg?style=flat&logo=traefikproxy&logoColor=white&color=1D1F22)](https://traefik.io/)
 [![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white&color=1D1F22)](https://docs.gitlab.com/ee/ci/)
 
-## ⏰ WakaTime:
+## ⏰ [WakaTime](https://wakatime.com/@yntedero) :
 <!--START_SECTION:waka-->
 
 ```rust
