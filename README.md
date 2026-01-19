@@ -45,11 +45,11 @@ Developing with: Vue / Nuxt - Angular - .NET - TypeScript</br>
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 April 2024 - To: 16 January 2026
+From: 19 April 2024 - To: 17 January 2026
 
-Total Time: 1,003 hrs 30 mins
+Total Time: 1,003 hrs 47 mins
 
-TypeScript                 284 hrs 14 mins >>>>>>>------------------   28.20 %
+TypeScript                 284 hrs 17 mins >>>>>>>------------------   28.19 %
 C#                         124 hrs         >>>----------------------   12.30 %
 HTML                       122 hrs 53 mins >>>----------------------   12.19 %
 Vue.js                     122 hrs 49 mins >>>----------------------   12.18 %
