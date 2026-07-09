@@ -45,19 +45,19 @@ Developing with: Vue / Nuxt - Angular - .NET - TypeScript</br>
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 April 2024 - To: 06 July 2026
+From: 19 April 2024 - To: 08 July 2026
 
-Total Time: 1,386 hrs 44 mins
+Total Time: 1,394 hrs 53 mins
 
-TypeScript                 368 hrs 12 mins       >>>>>>-------------------   25.97 %
-Vue.js                     141 hrs 54 mins       >>>----------------------   10.01 %
-C#                         130 hrs 20 mins       >>-----------------------   09.19 %
-HTML                       124 hrs 36 mins       >>-----------------------   08.79 %
-Vue                        98 hrs 29 mins        >>-----------------------   06.95 %
-Markdown                   88 hrs 16 mins        >>-----------------------   06.23 %
-Razor                      78 hrs 44 mins        >------------------------   05.55 %
-CSS                        50 hrs 33 mins        >------------------------   03.57 %
-Blazor                     43 hrs 26 mins        >------------------------   03.06 %
+TypeScript                 370 hrs 18 mins       >>>>>>-------------------   25.96 %
+Vue.js                     141 hrs 54 mins       >>-----------------------   09.95 %
+C#                         130 hrs 20 mins       >>-----------------------   09.14 %
+HTML                       124 hrs 36 mins       >>-----------------------   08.74 %
+Vue                        99 hrs 25 mins        >>-----------------------   06.97 %
+Markdown                   89 hrs 33 mins        >>-----------------------   06.28 %
+Razor                      78 hrs 44 mins        >------------------------   05.52 %
+CSS                        50 hrs 36 mins        >------------------------   03.55 %
+Blazor                     43 hrs 26 mins        >------------------------   03.05 %
 ```
 
 <!--END_SECTION:waka-->
