@@ -41,39 +41,21 @@ Developing with: Vue / Nuxt - Angular - .NET - TypeScript</br>
 [![Traefik](https://img.shields.io/badge/Traefik-%2324A1C1.svg?style=flat&logo=traefikproxy&logoColor=white&color=1D1F22)](https://traefik.io/)
 [![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white&color=1D1F22)](https://docs.gitlab.com/ee/ci/)
 
-## ⏰ [WakaTime](https://wakatime.com/@yntedero) :
-<!--START_SECTION:waka-->
+## 🏢 Experience
 
-```rust
-From: 19 April 2024 - To: 31 October 2026
-
-Total Time: 1,621 hrs 42 mins
-
-TypeScript                         416 hrs 51 mins       >>>>>>-------------------   24.72 %
-Vue                                149 hrs 52 mins       >>-----------------------   08.89 %
-Markdown                           149 hrs 29 mins       >>-----------------------   08.87 %
-Vue.js                             141 hrs 54 mins       >>-----------------------   08.42 %
-C#                                 131 hrs 32 mins       >>-----------------------   07.80 %
-HTML                               125 hrs 27 mins       >>-----------------------   07.44 %
-Razor                              82 hrs 1 min          >------------------------   04.86 %
-Other                              64 hrs 38 mins        >------------------------   03.83 %
-```
-
-<!--END_SECTION:waka-->
-
-## 🏢 Experience:
-**Softigo s.r.o. | Software Engineer | 2024 - Now**
-- **Frontend Development**: Building responsive applications with Vue.js & Blazor.
-- **Backend Development**: Building server‑side APIs, integrating databases with .NET.
-- **CI/CD Deveops**: Automated build and deployment pipelines.
-- **UI/UX Design**: Prototyping and making user interfaces.
+**Softigo s.r.o. | Software Engineer | 2024 - Present**
+- **AI Engineering**: Designing and maintaining RAG systems, MCP servers, and extensible plugin architectures. Developing custom agent harnesses and multi-agent environments with structured initialization, task delegation, and orchestration. Optimizing LLM providers, agent workflows, tools, and automation through feedback sessions, evaluations, and automated testing. Building AI infrastructure for developers, testers, analysts, and managers. Working as a Forward Deployed Engineer (FDE), delivering tailored AI solutions for external clients using tools such as Claude and ChatGPT.
+- **Frontend Development**: Building scalable, responsive applications using Vue.js, Nuxt, and Blazor. Developing micro-frontend architectures and Nuxt-based reverse proxy platforms for integrating and managing independently developed applications.
+- **Backend Development**: Developing server-side APIs and database integrations using .NET and Nitro (Nuxt's server engine). Implementing request validation, ORM-based data access, server middleware, and backend business logic.
+- **CI/CD & DevOps**: Implementing automated build, testing, and deployment pipelines.
+- **UI/UX Design**: Prototyping and designing intuitive user interfaces. Developing reusable UI component libraries and establishing comprehensive design systems to ensure consistency, scalability, and maintainability across projects.
 
 **CORETEQ Technology | Junior Frontend Developer | 2024 - 2024**
-- **Frontend Development**: Building responsive applications with Angular.
-- **UI/UX Design**: Collaborating on user interface designs.
-- **E2E Testing**: Implementing end-to-end testing.
+- **Frontend Development**: Developing web applications and enterprise projects using Angular.
+- **UI/UX Design**: Collaborating on user interface design and implementation.
+- **E2E Testing**: Implementing end-to-end tests to ensure application reliability.
 
 **UAKOM | Junior Software Engineer | 2023 - 2024**
-- **Fullstack Development**: Developed applications using Symfony.
-- **Scripting**: Automated processes with Python scripts.
-- **System Administration**: Managed Linux server environments.
+- **Full-Stack Development**: Developing web applications using Symfony.
+- **Scripting & Automation**: Automating workflows and operational tasks using Python.
+- **System Administration**: Managing and maintaining Linux server environments.
